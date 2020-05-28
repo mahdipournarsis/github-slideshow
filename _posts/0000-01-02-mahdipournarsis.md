@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "welcom"
+title: "welcom to my slide"
 ---
 your text
 use the left
